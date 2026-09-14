@@ -55,7 +55,7 @@ sql/
 └── mlb_payroll_efficiency.db
 
 tableau/
-└── mlb_payroll_efficiency_dashboard.twbx
+└── mlb_payroll_efficiency_dashboard.twb
 
 images/
 └── mlb_payroll_efficiency_dashboard.png

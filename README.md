@@ -24,7 +24,7 @@ The source dataset contains payroll and performance data for all 30 MLB teams fr
 
 1. Cleaned and filtered the source data with Pandas.
 2. Checked data types, missing values, and duplicate team-season records.
-3. Created seven payroll, performance, and efficiency metrics.
+3. Created seven calculated fields for payroll, performance, and efficiency.
 4. Loaded the cleaned data into SQLite and analyzed it with SQL.
 5. Built an interactive Tableau dashboard with a season filter.
 
